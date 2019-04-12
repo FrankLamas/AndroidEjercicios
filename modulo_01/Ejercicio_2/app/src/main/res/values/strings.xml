@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ejercicio_2</string>
+    <string name="buttonCalculo">Calcular</string>
+    <string name="radioSuma">Suma</string>
+    <string name="radioResta">Resta</string>
+    <string name="titulo">Calculadora fea :D</string>
+    <string name="hintN1">Ingresa un numero.</string>
+    <string name="hintN2">Ingresa un numero.</string>
 </resources>
