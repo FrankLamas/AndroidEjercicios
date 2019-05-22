@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejercicio04</string>
+    <string name="chb1">Negrita</string>
+    <string name="chb2">Cursiva</string>
+    <string name="hinttex">Escribe Aquí</string>
+</resources>
