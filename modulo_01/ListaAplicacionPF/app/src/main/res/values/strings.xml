@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaAplicacionPF</string>
+    <string name="toolbti">Cursos</string>
+    <string name="namecurso">Nombre de la clase</string>
+    <string name="descripcion">Porcentaje de Asistencia: 100%</string>
+    <string name="btnAsist">Asistencia</string>
+    <string name="btnfalta">Falta</string>
+    <string name="btnJustificado">Justificado</string>
+    <string name="estado">Estado</string>
+</resources>
